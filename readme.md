@@ -10,4 +10,4 @@ aws_secret_access_key = <>
 
 create key and give justly created user access to use it
 
-copy key id from 
+copy key id into bootstrap.yaml or copy the full arn
