@@ -1,0 +1,4 @@
+aws:
+  kms:
+    keyId: 1ad0ca48-cc4c-4cfa-a8cb-fc6e3dd364f2
+    region: us-east-2
